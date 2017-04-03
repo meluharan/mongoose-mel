@@ -1,0 +1,32 @@
+{
+  "name": "mongoose-mel",
+  "version": "1.0.0",
+  "description": "mongoose connection",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meluharan/mongoose-mel.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "mongoose"
+  ],
+  "author": "Mel",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/meluharan/mongoose-mel/issues"
+  },
+  "homepage": "https://github.com/meluharan/mongoose-mel#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.7.1"
+  },
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.9.3",
+    "multer": "^1.3.0"
+  }
+}
